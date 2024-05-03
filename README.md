@@ -1,7 +1,7 @@
 # Assignment #2
 1. Write code to measure the execution time of F(1), F(2), ..., F(100) using both methods. Plot the results as a line chart. (if your program crashes during computation F(n+1) or takes too much time (>12hours) to compute one value, you can just stop and report the maximum value of n.)  
 -> Q1_recursive.py  
--> Q1_recursive.png
+-> Q1_recursive.png  
 -> Q1_DP.py
 -> Q1_DP.png
 
