@@ -6,6 +6,7 @@
 -> Q1_DP.png
 ### Recursive
 ![image](https://github.com/Chree0450/HW2/blob/main/Q1_recursive.png)  
+![image](https://github.com/Chree0450/HW2/blob/main/fibonacci_56.png)  
 ### DP
 ![image](https://github.com/Chree0450/HW2/blob/main/Q1_DP.png)  
   
